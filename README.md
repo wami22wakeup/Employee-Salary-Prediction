@@ -1,7 +1,6 @@
 💼 Employee Salary Classification App
 This is a Streamlit web app that predicts whether an employee earns >50K or <=50K annually, using machine learning models trained on the Adult Census Income Dataset.
 
-<p align="center"> <img src="images/model_comparison.png" alt="Model Comparison" width="70%"> </p>
 
 Multiple model predictions: Random Forest, Decision Tree, Gradient Boosting, KNN, and Neural Network
 
